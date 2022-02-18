@@ -5,13 +5,13 @@ Cedar is a processing server managed by Professor Sehun Chun of Integrated Scien
 
 ## Connecting
 Connect to Cedar with the `ssh` command, like the example shown below. Replace `<your-username>` with the your username. Enter your account password when prompted.
-```
+```shellscript
 ssh <your-username>@cedar.uic.yonsei.ac.kr
 ```
 
 ## Change Password
 Please change your default password as soon as possible, to a strong, unique password. All accounts **must** have a password.
-```
+```shellscript
 passwd
 ```
 
