@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Cedar
+longtitle:        Cedar at UIC
+author:           Youngwoo Kim
+email:            sean0404@yonsei.ac.kr
 description: >
-  Build Jekyll site with the GitBook style.
+  Cedar @ISED, UIC, Yonsei
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://seanK200.github.io'
+baseurl:          '/cedar'
 rss:              RSS
 
 toc:
